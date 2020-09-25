@@ -1,7 +1,7 @@
 # PyQt_project with MySql
 PyQt를 활용한 간단 수강신청 프로그램 만들기
 ***
-### + 학과등록 탭
+### 학과등록 탭
 ![1](https://user-images.githubusercontent.com/69666784/93539318-621c1780-f98b-11ea-9ab3-e6e67bc3756e.PNG)
 * (MySql) 일련 번호는 AUTO_INCREMENT를 이용해 자동으로 생성
 * Default로 (수정버튼, 삭제버튼) 비활성화
