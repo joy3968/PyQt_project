@@ -9,9 +9,16 @@ PyQt를 활용한 간단 수강신청 프로그램 만들기
 ***
 ### 학생등록 탭
 ![2](https://user-images.githubusercontent.com/69666784/93539321-634d4480-f98b-11ea-8178-4677e20df8e1.PNG)
+
 ***
 ### 과목등록 탭
 ![3](https://user-images.githubusercontent.com/69666784/93539323-647e7180-f98b-11ea-9ee5-ac587d442e13.PNG)
 ***
 ### 수강신청 탭
 ![4](https://user-images.githubusercontent.com/69666784/93539327-67796200-f98b-11ea-9001-bf6a9ba7e701.PNG)
+***
+### 데이터베이스 시스템(MySQL)에 저장된 모습
+
+![university_db](https://user-images.githubusercontent.com/69666784/94211855-8dfc4780-ff0d-11ea-83f3-5a49de787444.PNG)
+![university_db2](https://user-images.githubusercontent.com/69666784/94211857-8e94de00-ff0d-11ea-8aea-e306d640d57b.PNG)
+
