@@ -17,6 +17,11 @@ PyQt를 활용한 간단 수강신청 프로그램 만들기
 ### 수강신청 탭
 ![4](https://user-images.githubusercontent.com/69666784/93539327-67796200-f98b-11ea-9001-bf6a9ba7e701.PNG)
 ***
+### ER-Win을 통한 물리적 모델링
+
+![E_R_win](https://user-images.githubusercontent.com/69666784/94226337-518f1280-ff32-11ea-8496-e409164aaf41.PNG)
+
+
 ### 데이터베이스 시스템(MySQL)에 실제 저장된 모습
 
 ![university_db](https://user-images.githubusercontent.com/69666784/94211855-8dfc4780-ff0d-11ea-83f3-5a49de787444.PNG)
