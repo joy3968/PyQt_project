@@ -29,15 +29,19 @@ PyQt를 활용한 간단 수강신청 프로그램 만들기
 ### 데이터베이스 시스템(MySQL)에 실제 저장된 모습
 
 * SUBJECT 테이블
+
 ![university_db](https://user-images.githubusercontent.com/69666784/94211855-8dfc4780-ff0d-11ea-83f3-5a49de787444.PNG)
 
 * STUDENT 테이블
+
 ![university_db2](https://user-images.githubusercontent.com/69666784/94211857-8e94de00-ff0d-11ea-8aea-e306d640d57b.PNG)
 
 * LESSON 테이블
+
 ![university_db3](https://user-images.githubusercontent.com/69666784/94226910-c4e55400-ff33-11ea-9df7-5207f6dd2cdc.PNG)
 
 * TRAINEE 테이블
+
 ![university_db4](https://user-images.githubusercontent.com/69666784/94226916-c6168100-ff33-11ea-8348-557341289398.PNG)
 ****
 
